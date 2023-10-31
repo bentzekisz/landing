@@ -1,0 +1,22 @@
+.banner {
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.banner h1 {
+  color:rgb(255, 255, 255);
+  font-weight:900;
+  font-size: 100px;
+  padding-bottom: 0px;
+}
+
+.banner p {
+  font-size: 32px;
+  color:rgb(255, 255, 255);
+
+  font-weight: 900;
+  padding-bottom: 20px;
+  font-style: italic;
+}
